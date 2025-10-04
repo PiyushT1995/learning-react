@@ -1,10 +1,12 @@
 import Header from "./Header";
 import Footer from "./Footer";
+import Middle from "./Middle";
 function App(){
   return(
     <div>
-      <h1>Hello React</h1>
       <Header/>
+      <Middle/>
+      
       <Footer/>
     </div>
 

@@ -1,7 +1,7 @@
 function Header(){
   return(
 
-    <h1>Welcome to my first react app</h1>
+    <h1>Hello, I am learning React step by step!</h1>
   );
   
 }
