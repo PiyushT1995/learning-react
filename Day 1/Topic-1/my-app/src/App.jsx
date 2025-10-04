@@ -1,6 +1,6 @@
-import Header from "./Header";
-import Footer from "./Footer";
-import Middle from "./Middle";
+import Header from "./Day-1/Header";
+import Footer from "./Day-1/Footer";
+import Middle from "./Day-1/Middle";
 function App(){
   return(
     <div>
