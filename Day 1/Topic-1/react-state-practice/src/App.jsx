@@ -1,3 +1,4 @@
+import ColorChanger from "./Practice/ColorChanger";
 import Counter from "./Practice/Counter";
 import ToggleMessge from "./Practice/ToggleMessage";
 function App(){
@@ -10,6 +11,8 @@ function App(){
      <ToggleMessge/>
      <hr/>
 
+     <ColorChanger/>
+     <hr/>
 
 
     </div>
