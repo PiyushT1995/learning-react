@@ -1,4 +1,5 @@
 import ShowMessage from "./Day-4/ShowMessage"
+import LoginStatus from "./Day-4/LoginStatus";
 function App(){
   return(
     <div style={{padding:"20px"}}> 
@@ -7,7 +8,8 @@ function App(){
 
       <ShowMessage/>
       <hr/>
-      
+      <LoginStatus/>
+
     </div>
 
   );
