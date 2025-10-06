@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 function GreetingTime(){
   const hour = new Date().getHours();
 
