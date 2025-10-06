@@ -1,6 +1,7 @@
 import ListOne from "./Day-5/ListOne"
 import ListTwo from "./Day-5/ListTwo";
 import ListThree from "./Day-5/ListThree";
+import ListFour from "./Day-5/ListFour";
 
 function App(){
   return(
@@ -13,6 +14,8 @@ function App(){
       <ListTwo/>
       <hr/>
       <ListThree/>
+      <hr/>
+      <ListFour/>
       <hr/>
     </div>
 
