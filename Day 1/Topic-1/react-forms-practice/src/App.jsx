@@ -2,7 +2,7 @@ import FormOne from "./Day-6/FormOne"
 import FormTwo from "./Day-6/FormTwo"
 import FormThree from "./Day-6/FormThree"
 import FormFour from "./Day-6/FormFour"
-
+import FormFive from "./Day-6/FormFive"
 function App(){
   return(
     <div>
@@ -16,6 +16,7 @@ function App(){
       <hr/>
       <FormFour/>
       <hr/>
+      <FormFive/>
     </div>
   )
 }
