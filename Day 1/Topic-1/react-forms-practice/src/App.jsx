@@ -1,6 +1,7 @@
 import FormOne from "./Day-6/FormOne"
 import FormTwo from "./Day-6/FormTwo"
 import FormThree from "./Day-6/FormThree"
+import FormFour from "./Day-6/FormFour"
 
 function App(){
   return(
@@ -12,6 +13,8 @@ function App(){
       <FormTwo/>
       <hr/>
       <FormThree/>
+      <hr/>
+      <FormFour/>
       <hr/>
     </div>
   )
